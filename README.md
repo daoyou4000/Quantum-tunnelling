@@ -17,6 +17,10 @@ In this folder I would like to note down my understanding of the Quantum tunneli
 下图描述了GS 和DS 之间电压的与电流之间的曲线
 ![image](https://github.com/daoyou4000/Quantum-tunnelling/blob/main/image/Curve.PNG)
 
+## 为什么制程越小会产生量子隧穿
+
+由以上几个图片可知，当制程越小时意味着沟道的长度越短，那么由于量子隧穿效应，电子有可能在没有施加电场时产生电流并且改变电平(不确定)。
+此时就会影响芯片的计算或者存储的精确性。
 
 ## Reference 
 - [MOSFET Introduction](https://zhuanlan.zhihu.com/p/53643465)
