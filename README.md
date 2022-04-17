@@ -8,7 +8,7 @@ In this folder I would like to note down my understanding of the Quantum tunneli
 在半导体制程中，如果工艺制程越小则意味着芯片上的三极管越小。
 ## 场效应管
 我们假设三极管或者场效应管是芯片上的最小单位控制着高低电平的翻转等。
-![image](https://github.com/daoyou4000/Quantum-tunnelling/blob/main/image/N-Channel.PNG "N-Channel MOSFET Structure")
+![N-Channel MOSFET Structure](https://github.com/daoyou4000/Quantum-tunnelling/blob/main/image/N-Channel.PNG "N-Channel MOSFET Structure")
 
 ## Reference 
 - [MOSFET Introduction](https://zhuanlan.zhihu.com/p/53643465)
